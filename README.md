@@ -23,4 +23,4 @@
 
 ### [<p align="center">🔗 Page Link </p>](https://iyashkr.github.io/CSS-Bicycle/)
 
-<h3 align="center"> Show ❤️ by Starring this Repo </h3>
+<h3 align="center"> Show ❤ by Starring this Repo </h3>
